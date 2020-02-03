@@ -1,0 +1,23 @@
+body{ font-family: 'Bitter', serif;
+}
+    
+.height{
+    min-height:100vh;
+}
+.title-underline{
+    width:200px;
+    height:10px;
+    margin:0 auto;
+}
+.height-80{
+    min-height:90vh;
+}
+
+.about-picture{
+    background: url("https://images.pexels.com/photos/3599576/pexels-photo-3599576.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+
+}
