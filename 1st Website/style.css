@@ -19,5 +19,12 @@ body{ font-family: 'Bitter', serif;
     background-position:center;
     background-repeat:no-repeat;
     background-attachment: fixed;
+}
 
+#filler{
+    background:url("https://images.pexels.com/photos/929385/pexels-photo-929385.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
 }
